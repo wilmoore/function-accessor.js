@@ -1,7 +1,7 @@
 {
   "name": "function-accessor",
   "description": "Higher-Order accessor functions.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
     "url": "https://github.com/wilmoore/function-accessor.js/issues"
